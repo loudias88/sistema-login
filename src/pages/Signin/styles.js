@@ -19,7 +19,7 @@ export const Content = styled.div`
   box-shadow: 0 1px 2px #0003;
   background-color: white;
   max-width: 350px;
-  padding: 20px;
+  padding: 21px;
   border-radius: 5px;
 `;
 

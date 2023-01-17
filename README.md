@@ -12,7 +12,7 @@
 Luís Heleno.
 
 ## Descrição e objetivo do projeto
-O objetivo do projeto foi criar um sistema de login com autenticação e cadastro utilizando React JS (Autenticação, Context API, Hooks).
+O objetivo do projeto foi criar um sistema de login com autenticação e cadastro utilizando React JS.
 
 ###
 
